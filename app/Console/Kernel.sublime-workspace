@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"em",
+				"email"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"is_",
+				"is_bool"
+			],
+			[
+				"sessin",
+				"session_start"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"sessi",
+				"session_destroy"
+			],
+			[
+				"S",
+				"_SESSION"
+			],
+			[
+				"new",
+				"newAccount"
+			],
+			[
+				"sess",
+				"session_unset"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"pa",
+				"parse_str"
+			],
+			[
+				"pars",
+				"parse_url"
+			],
+			[
+				"rou",
+				"routePath"
+			],
+			[
+				"delete",
+				"deletePost"
+			],
+			[
+				"route",
+				"routePath"
+			],
+			[
+				"f",
+				"fun\tfunction …"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"ne",
+				"newPost"
+			],
+			[
+				"c",
+				"callback"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"r",
+				"routes"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"func",
+				"create_function"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"Post",
+				"PostModel"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"arr",
+				"arr"
+			],
+			[
+				"array",
+				"array"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"FMT",
+				"phpfmt: toggle PSR2"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/nelson/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/nelson/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/nelson/projects/l8/routes/api.php",
+		"/home/nelson/projects/l8/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+		"/home/nelson/projects/l8/database/migrations/2021_01_26_144619_create_reactions_table.php",
+		"/home/nelson/projects/l8/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/nelson/projects/l8/database/migrations/2021_01_26_142425_create_posts_table.php",
+		"/home/nelson/projects/l8/routes/web.php",
+		"/home/nelson/projects/l8/public/index.php",
+		"/home/nelson/projects/l8/app/Http/Kernel.php",
+		"/home/nelson/projects/l8/config/app.php",
+		"/home/nelson/projects/l8/app/Providers/RouteServiceProvider.php",
+		"/home/nelson/projects/l8/config/database.php",
+		"/home/nelson/projects/l8/database/seeders/UsersTableSeeder.php",
+		"/home/nelson/projects/l8/bootstrap/app.php",
+		"/home/nelson/projects/l8/app/Http/Controllers/Controller.php",
+		"/home/nelson/projects/l8/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/home/nelson/projects/l8/database/migrations/2021_01_26_081308_create_comments_table.php",
+		"/home/nelson/projects/l8/.env",
+		"/home/nelson/projects/l8/database/migrations/2019_08_19_000000_create_failed_jobs_table.php",
+		"/home/nelson/projects/testing/Views/posts/index.php",
+		"/home/nelson/projects/testing/Models/MainModel.php",
+		"/home/nelson/projects/testing/index.php",
+		"/home/nelson/projects/testing/Views/Navbar.php",
+		"/home/nelson/projects/testing/Controllers/PostController.php",
+		"/home/nelson/projects/testing/Views/WelcomePage.php",
+		"/home/nelson/projects/testing/Controllers/AccountController.php",
+		"/home/nelson/projects/testing/Views/AccountPosts.php",
+		"/home/nelson/projects/testing/Views/Account.php",
+		"/home/nelson/projects/testing/Views/SignUp.php",
+		"/home/nelson/projects/testing/Views/Login.php",
+		"/home/nelson/projects/testing/Views/forms/index.php",
+		"/home/nelson/projects/testing/Classes/Request.php",
+		"/home/nelson/projects/testing/Models/PostModel.php",
+		"/home/nelson/projects/testing/Models/AccountModel.php",
+		"/home/nelson/projects/testing/Classes/Router.php",
+		"/home/nelson/projects/testing/Classes/Application.php",
+		"/home/nelson/.config/sublime-text-3/Packages/phpfmt/phpfmt.sublime-settings",
+		"/home/nelson/.config/sublime-text-3/Packages/SublimeTmpl/Main.sublime-menu",
+		"/home/nelson/.config/sublime-text-3/Packages/SublimeTmpl/Default (Linux).sublime-keymap",
+		"/home/nelson/.config/sublime-text-3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+		"/home/nelson/.config/sublime-text-3/Packages/User/SublimeTmpl.sublime-settings",
+		"/home/nelson/projects/testing/Views/forms/success.php",
+		"/home/nelson/projects/testing/Controllers/FormController.php",
+		"/home/nelson/projects/testing/classes/Application.php",
+		"/home/nelson/projects/testing/Controllers/MainController.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 437.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 139.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Kernel.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 445.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
