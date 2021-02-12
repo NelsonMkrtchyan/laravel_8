@@ -3,6 +3,7 @@
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Auth\LogoutController;
 use App\Http\Controllers\Auth\RegisterController;
+use App\Http\Controllers\BroadcastingController;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
@@ -17,26 +18,29 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
  */
-Route::get('/register', [RegisterController::class, "index"])->name('register');
-Route::post('/register', [RegisterController::class, "store"]);
+Route::get('/register', [RegisterController::class, 'index'])->name('register');
+Route::post('/register', [RegisterController::class, 'store']);
 
-// Route::get('/posts', [PostController::class, "index"])->name('posts');
+Route::get('/login', [LoginController::class, 'index'])->name('login');
+Route::post('/login', [LoginController::class, 'store']);
 
-Route::get('/login', [LoginController::class, "index"])->name('login');
-Route::post('/login', [LoginController::class, "store"]);
+Route::post('/logout', [LogoutController::class, 'store'])->name('logout');
 
-Route::post('/logout', [LogoutController::class, "store"])->name('logout');
+Route::get('/profile', [ProfileController::class, 'index'])->name('profile')->middleware('auth');
 
-Route::get('/profile', [ProfileController::class, "index"])->name('profile');
-
-// Route::get('/add/post', [PostController::class, "showForm"])->name('addPost');
-// Route::post('/add/post', [PostController::class, "addPost"]);
-
-Route::resources([
-    'posts' => PostController::class,
-]);
+Route::resource('posts', PostController::class)->middleware('auth');
 
 Route::get('/', function () {return view('home.index');})->name('home');
+
+
+
+
+
+
+
+
+
+
 
 // Route::get('/sss', function () {
 
